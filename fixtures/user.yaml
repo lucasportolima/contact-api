@@ -1,0 +1,16 @@
+- model: auth.user
+  pk: 1
+  fields:
+    password: pbkdf2_sha256$150000$JjlCTE3ebtf8$YYR5psvMQ42NUFRUs5YY8PesXk/5IAO7V2cEZU+51k4=
+    last_login: null
+    is_superuser: true
+    username: admin
+    first_name: 'Admin'
+    last_name: 'MercaFacil'
+    email: root@mercafacil.com
+    is_staff: true
+    is_active: true
+    date_joined: 2021-07-05 21:43:16.265931+00:00
+    groups: [1]
+    user_permissions: []
+
